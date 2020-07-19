@@ -22,7 +22,7 @@
 
 - [Theory](https://github.com/seunghyunshin111/NLP/tree/master/Theory)
 
-  - [한국어 임베딩(에이콘 출판사)](https://github.com/seunghyunshin111/NLP/blob/master/Theory/한국어 임베딩.md)
+  - [한국어 임베딩.md](https://github.com/seunghyunshin111/NLP/blob/master/Theory/한국어 임베딩.md)
   - [NLP_Process](https://github.com/seunghyunshin111/NLP/blob/master/Theory/NLP_Process.md)
   - [Recurrent Neural Network](https://github.com/seunghyunshin111/NLP/blob/master/Theory/Recurrent Neural Network.md)
   - [NLP_Deep Learning](https://github.com/seunghyunshin111/NLP/blob/master/Theory/NLP_Deep Learning.md)
