@@ -37,7 +37,7 @@
 
   - Naive bayes를 활용한 Word2Vec (토지)
 
-    [Naive bayes_토지_Word2Vec.ipynb](https://github.com/seunghyunshin111/NLP/blob/master/Word2Vec/Naive bayes_토지_Word2Vec.ipynb)
+    [Naive_bayes_토지_Word2Vec.ipynb](https://github.com/seunghyunshin111/NLP/blob/master/Word2Vec/Naive_bayes_토지_Word2Vec.ipynb)
 
   - 마르코프체인을 이용한 문장생성
 
