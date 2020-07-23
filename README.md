@@ -10,7 +10,7 @@
   - 한국어 임베딩, 에이콘 출판사
   - 프로젝트
 
-  
+  <br>
 
 - [Sentiment_Analysis](https://github.com/seunghyunshin111/NLP/tree/master/Sentiment_Analysis)
 
@@ -18,7 +18,7 @@
   - [MLP](https://github.com/seunghyunshin111/NLP/blob/master/Sentiment_Analysis/MLP.ipynb)
   - [RNN](https://github.com/seunghyunshin111/NLP/blob/master/Sentiment_Analysis/RNN.ipynb)
 
-  
+  <br>
 
 - [Theory](https://github.com/seunghyunshin111/NLP/tree/master/Theory)
 
@@ -27,7 +27,7 @@
   - [Recurrent_Neural_Network](https://github.com/seunghyunshin111/NLP/blob/master/Theory/Recurrent_Neural_Network.md)
   - [NLP_Deep_Learning](https://github.com/seunghyunshin111/NLP/blob/master/Theory/NLP_Deep_Learning.md)
 
-  
+  <br>
 
 - [Word2Vec](https://github.com/seunghyunshin111/NLP/tree/master/Word2Vec)
 
@@ -47,7 +47,7 @@
 
     [마르코프를_이용한_웹_챗봇.ipynb](https://github.com/seunghyunshin111/NLP/blob/master/Word2Vec/마르코프를_이용한_웹_챗봇.ipynb)
 
-  - 인공신경망을 활용한 Word2Vec
+  - 인공신경망을 활용한 Word2Vec 이론
 
     [인공신경망_Word2Vec.md](https://github.com/seunghyunshin111/NLP/blob/master/Word2Vec/인공신경망_Word2Vec.md)
 
