@@ -12,9 +12,9 @@
 
   
 
-- [Sentiment Analysis](https://github.com/seunghyunshin111/NLP/tree/master/Sentiment Analysis)
+- [Sentiment_Analysis](https://github.com/seunghyunshin111/NLP/tree/master/Sentiment_Analysis)
 
-  - [CNN](https://github.com/seunghyunshin111/NLP/blob/master/Sentiment Analysis/Sentiment Analysis CNN.ipynb)
+  - [CNN](https://github.com/seunghyunshin111/NLP/blob/master/Sentiment_Analysis/CNN.ipynb)
   - [MLP](https://github.com/seunghyunshin111/NLP/blob/master/Sentiment Analysis/Sentiment Analysis MLP.ipynb)
   - [RNN](https://github.com/seunghyunshin111/NLP/blob/master/Sentiment Analysis/Sentiment Analysis RNN.ipynb)
 
